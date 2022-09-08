@@ -1,0 +1,13 @@
+Alternativo;Bar;Sex/Sab;fome;Cliente;Pre�o;Chuva;Res;Tipo;Tempo;conc
+Sim;N�o;N�o;Sim;Alguns;RRR;N�o;Sim;Franc�s;0-10;Sim
+Sim;N�o;N�o;Sim;Cheio;R;N�o;N�o;Tailand�s;30-60;N�o
+N�o;Sim;N�o;N�o;Alguns;R;N�o;N�o;Hamburger;0-10;Sim
+Sim;N�o;Sim;Sim;Cheio;R;Sim;N�o;Tailand�s;out/30;Sim
+Sim;N�o;Sim;N�o;Cheio;RRR;N�o;Sim;Franc�s;>60;N�o
+N�o;Sim;N�o;Sim;Alguns;RR;Sim;Sim;Italiano;0-10;Sim
+N�o;Sim;N�o;N�o;Nenhum;R;Sim;N�o;Hamburger;0-10;N�o
+N�o;N�o;N�o;Sim;Alguns;RR;Sim;Sim;Tailand�s;0-10;Sim
+N�o;Sim;Sim;N�o;Cheio;R;Sim;N�o;Hamburger;>60;N�o
+Sim;Sim;Sim;Sim;Cheio;RRR;N�o;Sim;Italiano;out/30;N�o
+N�o;N�o;N�o;N�o;Nenhum;R;N�o;N�o;Tailand�s;0-10;N�o
+Sim;Sim;Sim;Sim;Cheio;R;N�o;N�o;Hamburger;30-60;Sim
