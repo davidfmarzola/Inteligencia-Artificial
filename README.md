@@ -5,8 +5,9 @@
 ## :camera: Algoritmos
 
 - [x] Árvores de Decisão
-- [ ] Random Forest
-- [ ] Naive Bayes 
+- [x] Random Forest
+- [x] Naive Bayes 
+- [ ] Regras de Associação
 
 ## :ship: Análise de Qualidade
 
